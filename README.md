@@ -14,7 +14,9 @@
 <li>
  Download Anaconda
 </li>
+<li>
  Download pyspark using "conda install pyspark"
+  </li>
 <li>
  Open the Jupyter Notebook
 </li>
