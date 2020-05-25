@@ -20,5 +20,8 @@
 <li>
  Open the Jupyter Notebook
 </li>
+<li>
+ Run cells.
+</li>
 
 </ol>
