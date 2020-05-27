@@ -1,4 +1,5 @@
 # PySpark-2.4.5-Notebook
+This notebook is intended for learning PySpark from beginning to advanced level.
 
 # SPARKIFY_DATASET:
 
